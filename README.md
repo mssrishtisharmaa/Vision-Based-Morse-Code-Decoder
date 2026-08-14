@@ -262,30 +262,7 @@ The current implementation uses configurable threshold and timing values rather 
 * Improved graphical interface
 * Cross-platform support
 
-## Evaluation
 
-The project was tested as a real-time computer-vision system under different practical conditions, including variations in lighting, eyewear, and head movement.
 
-Future versions can include quantitative measurements for:
 
-```text
-Detection Accuracy
-False Positive Rate
-Missed Blink Rate
-Average Latency
-Frames Per Second
-```
 
-Benchmark values should only be reported after being experimentally measured.
-
-## Project Background
-
-This project was developed during an AI/ML internship at Anveshan Foundation, IGDTUW.
-
-The internship involved Python, artificial intelligence and machine-learning fundamentals, OpenCV-based real-time video processing, MediaPipe FaceMesh, facial landmark detection, EAR-based blink detection, and blink-based command decoding.
-
-The internship report describes the development of an AI-based eye-blink detection system for hands-free interaction and coded signaling.
-
-## License
-
-This project is licensed under the MIT License.
